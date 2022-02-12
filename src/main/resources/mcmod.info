@@ -2,8 +2,8 @@
     {
         "modid" : "computercraft",
         "name" : "ComputerCraft",
-        "version" : "${version}",
-        "mcversion" : "${mcversion}",
+        "version" : "2.0",
+        "mcversion" : "1.18.1",
         "url" : "http://www.computercraft.info",
         "credits" : "Created by Daniel Ratcliffe (@DanTwoHundred)",
         "authors" : [
